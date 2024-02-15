@@ -1,7 +1,10 @@
 import styles from './Banner.module.css';
-import circuloColorido from 'assets/circulo_colorido.png';
 
+import circuloColorido from 'assets/circulo_colorido.png';
 import minhaFoto from 'assets/minha_foto.png';
+ 
+
+ 
 
 
 export default function Banner() {
@@ -29,12 +32,6 @@ export default function Banner() {
                     alt="Foto do Ric"
                 />
             </div>
-        </div>
-
-
-
-    )
-
-
-
+        </div> 
+    ) 
 }
