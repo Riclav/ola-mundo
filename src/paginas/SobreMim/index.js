@@ -30,7 +30,7 @@ export default function SobreMim() {
                 Após o ensino superior, escolhi cursar Pós-Graduação na mesma instituição. Onde atualmente estou cursando dois cursos para enriquecer meus conhecimentos (Engenharia de software e Ciência de dados e Inteligência artificial).
             </p>
             <p className={styles.paragrafo}>
-                Desde o final de do ano de 2023, assumi novos desafios na empresa que trabalho, atuando com desenvolverdor de software, para as inumeras demandas dentro da engenharia.
+                Desde o final de do ano de 2023, assumi novos desafios na empresa em que trabalho, atuando como desenvolverdor de software, para novas demandas dentro da engenharia.
             </p>
             <p className={styles.paragrafo}>
                Cada dia é uma nova experiência, e os cursos da Alura estão me guiando nesse longo caminho de aprendizado.
